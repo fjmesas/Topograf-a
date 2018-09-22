@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/36521012/45920388-9b584480-bea3-11e8-9465-51de397800bb.png)
+<p align="center">
+  ![logo](https://user-images.githubusercontent.com/36521012/45920388-9b584480-bea3-11e8-9465-51de397800bb.png)
 # Escuelta T&eacute;cnica Superior Ingenier&iacute;a Agroalimentaria y de Montes
 ## Departamento de Ingener&iacute;a Gr&aacute;fica y Geom&aacute;tica
 ## F. Javier Mesas Carrascosa
