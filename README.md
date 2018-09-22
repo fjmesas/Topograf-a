@@ -1,8 +1,7 @@
-<p align="center">
-  ![logo](https://user-images.githubusercontent.com/36521012/45920388-9b584480-bea3-11e8-9465-51de397800bb.png)
-# Escuelta T&eacute;cnica Superior Ingenier&iacute;a Agroalimentaria y de Montes
-## Departamento de Ingener&iacute;a Gr&aacute;fica y Geom&aacute;tica
-## F. Javier Mesas Carrascosa
+![logo](https://user-images.githubusercontent.com/36521012/45920388-9b584480-bea3-11e8-9465-51de397800bb.png)
+<h2 style="text-align: center;"><strong>Escuela Técnica Superior Ingeniería Agroalimentaria y de Montes</strong></h2>
+<h3 style="text-align: center;"><strong>Departamento de Ingeniería Gráfica y Geomática</strong></h3>
+<h4 style="text-align: left;"><strong>F. Javier Mesas Carrascosa</strong></h4>
 <p>En este repositorio se presentan diferentes iPython Notebooks con material relacionado con la Topograf&iacute;a.</p>
 <ul>
 <li><strong>distancias.ipynb</strong>: C&aacute;lculo de la distacia geom&eacute;trica, reducida y desnivel a partir de las coordenadas cartesianas de dos puntos.</li>
