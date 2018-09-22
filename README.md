@@ -1,16 +1,8 @@
-<h2><!-- #######  YAY, I AM THE SOURCE EDITOR! #########--></h2>
-<table style="width: 576px;">
-<tbody>
-<tr>
-<td style="width: 475.484375px;">
-<h2>Escuelta T&eacute;cnica Superior Ingenier&iacute;a Agroalimentaria y de Montes</h2>
-<h3>Departamento de Ingener&iacute;a Gr&aacute;fica y Geom&aacute;tica</h3>
-<h4>F. Javier Mesas Carrascosa</h4>
-</td>
-<td style="width: 80 px;"><img style="float: right;" src="http://www.uco.es/pie/images/logo-faldon-desplegable-etsiam.png" alt="" width="120" height="86" /></td>
-</tr>
-</tbody>
-</table>
+![logo](https://user-images.githubusercontent.com/36521012/45920388-9b584480-bea3-11e8-9465-51de397800bb.png)
+## Escuelta T&eacute;cnica Superior Ingenier&iacute;a Agroalimentaria y de Montes
+## Departamento de Ingener&iacute;a Gr&aacute;fica y Geom&aacute;tica
+
+<p>F. Javier Mesas Carrascosa.</p>
 <p>En este repositorio se presentan diferentes iPython Notebooks con material relacionado con la Topograf&iacute;a.</p>
 <ul>
 <li><strong>distancias.ipynb</strong>: C&aacute;lculo de la distacia geom&eacute;trica, reducida y desnivel a partir de las coordenadas cartesianas de dos puntos.</li>
